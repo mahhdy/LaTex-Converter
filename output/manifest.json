@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-02-09T22:31:17.269945",
+  "files": [
+    {
+      "type": "overview",
+      "source": "main.tex",
+      "target": "src\\content\\books\\fa\\index.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch01-مقدمه.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch02-تشریح-نظام-حاکم.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch03-طیف-شناسی-اپوزیسیون.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch04-سناریوهای-گذار.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch05-بُعد-بین-المللی.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch06-تقویت-اپوزیسیون.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch07-مدیریت-دوره-گذار.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch08-تحلیل-ریسک.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch09-نقشه-راه-عملیاتی.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch10-جمع-بندی.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch11-نظریه-های-انقلاب-و-گذار.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch12-rlمطالعات-موردی.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch13-ساختار-قدرت-جمهوری-اسلامی.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch14-تاریخ-جنبش-های-ایران.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch15-آمار-و-داده-ها.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch16-مستندات-حقوق-بشری.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\ch17-کتاب-شناسی.md"
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "slug": "",
+    "chapters_count": 17
+  }
+}

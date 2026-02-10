@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-02-09T22:11:46.779633",
+  "files": [
+    {
+      "type": "overview",
+      "source": "main.tex",
+      "target": "src\\content\\books\\fa\\راهنمای-عملی-نوسازی\\index.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\راهنمای-عملی-نوسازی\\ch01-مقدمه.md"
+    },
+    {
+      "type": "chapter",
+      "source": "mixed",
+      "target": "src\\content\\books\\fa\\راهنمای-عملی-نوسازی\\ch02-فصل-دوم.md"
+    }
+  ],
+  "metadata": {
+    "title": "راهنمای عملی نوسازی",
+    "slug": "راهنمای-عملی-نوسازی",
+    "chapters_count": 2
+  }
+}
